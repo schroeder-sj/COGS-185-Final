@@ -1,1 +1,1 @@
-Code for Comparison of GRU and LSTM models using Shakespear dataset
+Code for Comparison of GRU and LSTM models using Sherlock Holmes dataset
